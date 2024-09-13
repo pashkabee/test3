@@ -1,0 +1,2 @@
+/home/user/453503/ОАиП/LR1/CMakeFiles/edit_cache.dir
+/home/user/453503/ОАиП/LR1/CMakeFiles/rebuild_cache.dir
